@@ -1,0 +1,24 @@
+{
+  "name": "extension-feedreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5on9i/extension-feedreader.git"
+  },
+  "author": "namh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5on9i/extension-feedreader/issues"
+  },
+  "homepage": "https://github.com/i5on9i/extension-feedreader#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^2.2.2"
+  }
+}
